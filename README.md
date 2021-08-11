@@ -1,9 +1,8 @@
-### Hi there, I'm Özgür Baybaş
-<img src="https://user-images.githubusercontent.com/73527798/129029038-124594ee-2943-4685-9e55-06dfc337ef76.gif" width="auto">
+
 <!--
 **ozgurbaybas/ozgurbaybas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-This is the place where I opensource stuff and break things 🤣
+### Hi there, I'm Özgür Baybaş
+<img src="https://user-images.githubusercontent.com/73527798/129029038-124594ee-2943-4685-9e55-06dfc337ef76.gif" width="auto">This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m I’m currently learning React, Go 
