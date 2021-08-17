@@ -4,7 +4,7 @@
 This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m I’m currently learning React, Go 
-- 💬 Ask me about anything related to Java/C#/Android Software Development/ or HTML/CSS/Javascript
+- 💬 Ask me about anything related to Java/C#/Android Software Development or HTML/CSS/Javascript
 
 <!--
 **ozgurbaybas/ozgurbaybas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
