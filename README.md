@@ -32,7 +32,6 @@ This is the place where I opensource stuff and break things 🤣
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/> 
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="dotnet" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="goLang" width="50" height="50"/>
 
