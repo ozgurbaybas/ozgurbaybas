@@ -11,6 +11,9 @@
 <a href="https://www.linkedin.com/in/ozgurbaybas" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://medium.com/@ozgurbaybas" target="_blank">
+<img src=https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/ozgurbaybas" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
