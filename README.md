@@ -14,7 +14,7 @@
 <a href="https://medium.com/@ozgurbaybas" target="_blank">
 <img src=https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ozgurbaybas" target="_blank">
+<a href="https://instagram.com/codeprex" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
