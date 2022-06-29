@@ -1,4 +1,4 @@
-<img src=https://github.com/ozgurbaybas/OnlineBookStore/blob/master/src/main/resources/img/githubProfil.png style="margin-bottom: 5px;" />
+
 <h1 align="center">Hi, 👋 I'm Özgür Baybaş </h1>
 <h3 align="center">A Software Developer from Turkey</h3>
 
